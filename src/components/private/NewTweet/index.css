@@ -1,0 +1,31 @@
+.new-tweet{
+    margin-bottom: 20px;
+}
+.new-tweet .title{
+    margin: 0;
+    padding: 0;
+}
+.new-tweet .form-group{
+    margin: 0 0 5px 0;
+    padding: 0;
+}
+.new-tweet .form-group .image{
+    max-width: 100%;
+}
+.new-tweet .form-control{
+    border: 1px solid #EEE;
+}
+.new-tweet .file-group{
+    padding-top: 7px;
+}
+.new-tweet .icon-image:before {
+    color: rgb(29, 161, 242);
+    cursor: pointer;
+    font-size: 25px;
+}
+.new-tweet .icon-image:hover {
+    opacity: 0.8;
+}
+.new-tweet .form-control-file{
+    display: none;
+}
